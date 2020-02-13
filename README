@@ -1,0 +1,6 @@
+Zeyad Shureih - program 3: smallsh
+
+To compile this program, call make
+
+The makefile specifies the header files shellLoop.h and builtInFuncs.h
+There is an implementation file builtInFuncs.c that implements the built in functions
